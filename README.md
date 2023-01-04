@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Inumella</h1>
 <h3 align="center">Devops Engineer/ML Engineer/SDE/Data Scientist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cinumell" alt="cinumell" /></a> </p>
-
 - 🔭 I’m currently working on [Qibo](https://qibo.readthedocs.io/en/stable/index.html)
 
 - 🌱 I’m currently learning **I'm learning AWS Devops, React JS, Redux, Typescript, Graph QL, and Pytorch**
