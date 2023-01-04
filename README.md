@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chaitanya Inumella
 ==========================================================================================================================================
 
-ML Engineer , SDE, and Data Scientist
--------------------------------------
+Devops Engineer/ML Engineer/SDE/Data Scientist
+----------------------------------------------
 
 *   🌍  I'm based in Tempe, Arizona
 *   ✉️  You can contact me at [cinumell@asu.edu](mailto:cinumell@asu.edu)
 *   🚀  I'm currently working on [SoftPosit](http://gitlab.com/cerlane/SoftPosit-Python/)
-*   🧠  I'm learning React JS, Redux, Typescript, Graph QL, and Pytorch
+*   🧠  I'm learning Devops, AWS, React JS, Redux, Typescript, Graph QL, and Pytorch
 *   🤝  I'm open to collaborating on Accelerated ML applications, Web development, Data analysis, Deep Learning
 *   ⚡   Enhancing the computation of open-source quantum computing tools like qibo and tket. 
-*   🎯  Developed the GPU based libraries and the applications.
+*   🎯  Developed the various application based on GPU and enchancing the delivering with automatation.
 ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
