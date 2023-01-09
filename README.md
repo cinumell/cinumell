@@ -7,6 +7,8 @@
 
 - 👯 I’m looking to collaborate on [SoftPosit](https://gitlab.com/cerlane/SoftPosit)
 
+- 📄 Portfolio website: [My portfolio](https://inumellachaitanya-portfolio.netlify.app/)
+
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/cinumell?tab=repositories)
 
 - 📫 How to reach me **cinumell@asu.edu**
