@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Inumella</h1>
-<h3 align="center">Devops Engineer/ML Engineer/SDE/Data Scientist</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🔭 I’m currently working on [Qibo](https://qibo.readthedocs.io/en/stable/index.html)
 
-- 🌱 I’m currently learning **I'm learning AWS Devops, React JS, Redux, Typescript, Graph QL, and Pytorch**
+- 🌱 I’m currently learning **I'm learning GPU computing, Parallel architectures/algorithms, HPC workflows**
 
 - 👯 I’m looking to collaborate on [SoftPosit](https://gitlab.com/cerlane/SoftPosit)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/cinumell?tab=repositories)
 
-- 📫 How to reach me **cinumell@asu.edu**
+- 📫 How to reach me **inumellachaitanya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
