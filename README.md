@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chaitanya Inumella</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Qibo](https://qibo.readthedocs.io/en/stable/index.html)
+- 🔭 I’m currently working on GPU workflows for compuataional geometry algorithms.
 
-- 🌱 I’m currently learning **I'm learning GPU computing, Parallel architectures/algorithms, HPC workflows**
+- 🌱 I’m currently learning **I'm learning GPU computing, Parallel architectures/algorithms**
 
-- 👯 I’m looking to collaborate on [SoftPosit](https://gitlab.com/cerlane/SoftPosit)
+- 👯 I’m looking to collaborate on [Qibo](https://qibo.readthedocs.io/en/stable/index.html), [SoftPosit](https://gitlab.com/cerlane/SoftPosit)
 
 - 📄 Portfolio website: [My portfolio](https://inumellachaitanya-portfolio.netlify.app/)
 
