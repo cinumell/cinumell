@@ -25,6 +25,6 @@ a href="https://discordapp.com/users/880874334980300820" target="blank"><img ali
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cinumell&show_icons=true&locale=en&layout=compact" alt="cinumell" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cinumell&show_icons=true&locale=en" alt="cinumell" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cinumell&show_icons=true&locale=en" alt="cinumell" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cinumell&" alt="cinumell" /></p>
